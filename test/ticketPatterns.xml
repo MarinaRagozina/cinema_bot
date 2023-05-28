@@ -1,0 +1,1401 @@
+<test>
+    <test-case id="/Ticket/Refund1">
+		<q>Возврат билета на сеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund2">
+		<q>Возврат билета на фильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund3">
+		<q>Отмена заказа на билет в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund4">
+		<q>Возврат денег за билет в кинотеатре</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund5">
+		<q>Возврат средств за кинобилет</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund6">
+		<q>Возврат денежных средств за билет в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund7">
+		<q>Отмена билета на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund8">
+		<q>Возврат билета на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund9">
+		<q>Возврат средств за билет в кинотеатр</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund10">
+		<q>Возврат денег за кинобилет</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund11">
+		<q>Возврат билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund12">
+		<q>Отмена покупки билета на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund13">
+		<q>Возврат денежных средств за кинобилет</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund14">
+		<q>Возврат средств за билет в кинотеатре</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund15">
+		<q>Возврат денег за билет на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund16">
+		<q>Возврат стоимости билета на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund17">
+		<q>Возврат денег за билет в кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund18">
+		<q>Отмена заказа на билет в кинотеатр</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund19">
+		<q>Возврат денежных средств за билет в кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund8">
+		<q>Возврат билета на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund21">
+		<q>Возврат стоимости билета в кинотеатре</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund22">
+		<q>Возврат денег за кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund23">
+		<q>Отмена заявки на билет в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund24">
+		<q>Возврат средств за кинобилеты</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund25">
+		<q>Возврат денег за билет на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund26">
+		<q>Возврат денежных средств за билет на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund27">
+		<q>Отмена покупки билета в кинотеатре</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund28">
+		<q>Возврат стоимости билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund29">
+		<q>Возврат денег за билеты в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund30">
+		<q>Возврат билета на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund31">
+		<q>Возврат денежных средств за билет на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund32">
+		<q>Возврат билетов в кинотеатр</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund33">
+		<q>Возврат стоимости билета в киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund34">
+		<q>Возврат денег за заказ билета в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund35">
+		<q>Отмена бронирования билета в кинотеатре</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund36">
+		<q>Возврат денежных средств за билеты в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund37">
+		<q>Возврат стоимости билета на фильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund38">
+		<q>Отмена бронирования билета на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund39">
+		<q>Возврат денег за билет на фильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund40">
+		<q>Возврат средств за заказ билета в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund41">
+		<q>Возврат денег за билеты на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund42">
+		<q>Возврат стоимости билета на кино-показ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund43">
+		<q>Возврат денег за заказ билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund44">
+		<q>Возврат билетов на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund45">
+		<q>Отмена заказа билетов в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund46">
+		<q>Возврат стоимости билета на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund47">
+		<q>Возврат денег за билет на кино-показ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund48">
+		<q>Отмена бронирования билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund49">
+		<q>Возврат денег за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund50">
+		<q>Возврат денежных средств за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund28">
+		<q>Возврат стоимости билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund52">
+		<q>Возврат денег за билет в кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund2">
+		<q>Возврат билета на фильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund54">
+		<q>Возврат денег за заказ билетов в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund55">
+		<q>Возврат денежных средств за билет на кино-показ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund56">
+		<q>Отмена заказа билета на фильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund57">
+		<q>Возврат билетов на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund58">
+		<q>Возврат средств за заказ билетов на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund28">
+		<q>Возврат стоимости билета на кинофильм</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund60">
+		<q>Возврат денег за бронирование билета в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund61">
+		<q>Возврат билетов на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund62">
+		<q>Возврат средств за бронирование билета в кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund63">
+		<q>Возврат денег за билет на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund64">
+		<q>Возврат стоимости билета на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund65">
+		<q>Возврат денег за заказ билетов на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund66">
+		<q>Возврат билетов на кино-показ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund67">
+		<q>Возврат средств за заказ билетов на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund68">
+		<q>Возврат денег за билет на кино-премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund46">
+		<q>Возврат стоимости билета на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund70">
+		<q>Возврат денег за билет в кино-премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund71">
+		<q>Возврат билета на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund72">
+		<q>Возврат средств за билет на кино-показ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund49">
+		<q>Возврат денег за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund74">
+		<q>Возврат стоимости билета на кино-премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund49">
+		<q>Возврат денег за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund76">
+		<q>Возврат средств за билет на кино-премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund77">
+		<q>Отмена заказа билета на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund78">
+		<q>Возврат билетов на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund79">
+		<q>Возврат денег за билеты на кино-премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund80">
+		<q>Возврат стоимости билетов на кино</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund81">
+		<q>Возврат денег за билеты на киносеанс</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund82">
+		<q>Возврат билета на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund83">
+		<q>Возврат средств за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund84">
+		<q>Возврат денег за билет на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund85">
+		<q>Возврат стоимости билета на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund49">
+		<q>Возврат денег за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund87">
+		<q>Возврат средств за билет на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund88">
+		<q>Возврат билетов на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund89">
+		<q>Возврат денег за билеты на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund90">
+		<q>Возврат стоимости билетов на кино-вечеринку</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund91">
+		<q>Возврат денег за билет на премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund30">
+		<q>Возврат билета на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund93">
+		<q>Возврат средств за билет на премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund49">
+		<q>Возврат денег за билет на кинопоказ</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund95">
+		<q>Возврат стоимости билета на премьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund63">
+		<q>Возврат денег за билет на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund97">
+		<q>Возврат средств за билет на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund78">
+		<q>Возврат билетов на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund99">
+		<q>Возврат денег за билеты на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund100">
+		<q>Возврат стоимости билетов на кинопремьеру</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund101">
+		<q>Как сдать билет в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund102">
+		<q>Как отказаться от посещения киносеанса?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund103">
+		<q>Как вернуть билет на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund104">
+		<q>Как произвести возврат билета в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund105">
+		<q>Как отменить заказ билета на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund106">
+		<q>Как осуществить возврат билета на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund107">
+		<q>Как вернуть стоимость билета в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund108">
+		<q>Как вернуть деньги за невостребованный билет в кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund109">
+		<q>Как вернуть денежные средства за неиспользованный билет на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund110">
+		<q>Как вернуть билет на киносеанс в кассе?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund111">
+		<q>Как вернуть билет на кино через интернет?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund112">
+		<q>Как вернуть билет на кино без потери денег?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund113">
+		<q>Как отменить зарезервированный билет на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund114">
+		<q>Как вернуть билет на фильм, который уже начался?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund115">
+		<q>Как получить возмещение за билет на кино, которое отменили?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund116">
+		<q>Как вернуть билет на кинопремьеру?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund117">
+		<q>Как вернуть билет на детский киносеанс?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund118">
+		<q>Как вернуть билет на кинофестиваль?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund119">
+		<q>Как вернуть билет на иностранное кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund120">
+		<q>Как отказаться от похода в кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund121">
+		<q>Как вернуть билет на несуществующий киносеанс?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund103">
+		<q>Как вернуть билет на кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund123">
+		<q>Как вернуть билет на вечерний киносеанс?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund124">
+		<q>Как вернуть билет на утренний киносеанс?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund125">
+		<q>Как вернуть билет на ночной киносеанс?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund126">
+		<q>Как вернуть билет на сеанс в IMAX-зале?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund127">
+		<q>Как вернуть билет на первый показ кинофильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund128">
+		<q>Как вернуть билет на повторный показ кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund129">
+		<q>Как вернуть билет на димакс кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund130">
+		<q>Как вернуть билет на премьеру кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund131">
+		<q>Как вернуть билет на фильм с короткометражками?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund132">
+		<q>Как вернуть билет на фестиваль кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund133">
+		<q>Как вернуть билет на историческое кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund134">
+		<q>Как вернуть билет на научно-популярное кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund135">
+		<q>Как вернуть билет на боевик?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund136">
+		<q>Как вернуть билет на комедийный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund137">
+		<q>Как вернуть билет на триллер?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund138">
+		<q>Как вернуть билет на ужасы?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund139">
+		<q>Как вернуть билет на мелодраму?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund140">
+		<q>Как вернуть билет на драму?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund141">
+		<q>Как вернуть билет на фантастический фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund142">
+		<q>Как вернуть билет на фильм для всей семьи?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund143">
+		<q>Как вернуть билет на анимационный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund144">
+		<q>Как вернуть билет на кроссоверный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund145">
+		<q>Как вернуть билет на продолжение фильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund146">
+		<q>Как вернуть билет на экранизацию книги?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund147">
+		<q>Как вернуть билет на мультфильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund148">
+		<q>Как вернуть билет на фильм-нуар?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund149">
+		<q>Как вернуть билет на художественный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund150">
+		<q>Как вернуть билет на фильм о приключениях?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund151">
+		<q>Как вернуть билет на фильм, который меня не заинтересовал?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund152">
+		<q>Как вернуть билет на фильм, который провалился у критиков?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund153">
+		<q>Как вернуть билет на продолжительный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund154">
+		<q>Как вернуть билет на фильм-историю?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund155">
+		<q>Как вернуть билет на фильм-катастрофу?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund156">
+		<q>Как вернуть билет на фильм-трилогию?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund157">
+		<q>Как вернуть билет на зарубежный фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund158">
+		<q>Как вернуть билет на фильм национального кино?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund159">
+		<q>Как вернуть билет на фильм с элементами фэнтези?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund160">
+		<q>Как вернуть билет на фильм о любви?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund161">
+		<q>Как вернуть билет на фильм о спорте?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund162">
+		<q>Как вернуть билет на фильм о войне?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund163">
+		<q>Как вернуть билет на фильм, который посмотрели дома?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund164">
+		<q>Как вернуть билет на режиссерский фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund165">
+		<q>Как вернуть билет на фильм, который вышел из проката?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund166">
+		<q>Как вернуть билет на фильм, который оказался копией другого фильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund167">
+		<q>Как вернуть билет на просмотр рекламного ролика в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund168">
+		<q>Как вернуть билет на экранную версию спектакля?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund169">
+		<q>Как вернуть билет на концерт, который транслировался на большой экран в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund170">
+		<q>Как вернуть билет на просмотр документального фильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund171">
+		<q>Как вернуть билет на фильм, который назначили на другое время?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund172">
+		<q>Как вернуть билет на бесплатный кинопоказ?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund173">
+		<q>Как вернуть билет на спектакль, который был изменен?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund174">
+		<q>Как вернуть билет на мюзикл в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund175">
+		<q>Как вернуть билет на фильм, который перенесли на другую дату?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund176">
+		<q>Как вернуть билет на сеанс с режиссером фильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund177">
+		<q>Как вернуть билет на неизвестный культовый фильм?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund178">
+		<q>Как вернуть билет на исторический фильм-документальный?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund179">
+		<q>Как вернуть билет на киношедевр?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund180">
+		<q>Как вернуть билет на спектакль-балет?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund181">
+		<q>Как вернуть билет на выставку кинооператоров?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund182">
+		<q>Как вернуть билет на съемки фильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund183">
+		<q>Как вернуть билет на фильм, который нарушает мои убеждения?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund184">
+		<q>Как вернуть билет на фильм, который я уже смотрел?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund185">
+		<q>Как вернуть билет на фильм, который забыл смотреть?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund186">
+		<q>Как вернуть билет на фильм, который услышал отзывы от друзей, и они меня не удовлетворили.</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund187">
+		<q>Как вернуть билет на фильм, который продолжается больше 2 часов?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund188">
+		<q>Как вернуть билет на фильм, который был изменен или урезан в прокате?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund189">
+		<q>Как вернуть билет на дополнительный показ кинофильма?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund190">
+		<q>Как вернуть билет на мультисеанс в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund191">
+		<q>Как вернуть билет на фильм, который был переведен на другой язык?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund192">
+		<q>Как вернуть билет на фильм, который был записан на износ?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund193">
+		<q>Как вернуть билет на фильм, который не соответствует возрастным ограничениям?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund194">
+		<q>Как вернуть билет на горячую новинку?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund195">
+		<q>Как вернуть билет на фильм, который не понравился моему другу?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund196">
+		<q>Как вернуть билет на комедийный фильм, если основной артист не исполняется?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund197">
+		<q>Как вернуть билет на мюзикл, если техническое обслуживание шоу оказалось недостаточным?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund198">
+		<q>Как вернуть билет на футбольный матч, который транслировался в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund199">
+		<q>Как вернуть билет на театральный спектакль, который оказался в кинотеатре?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+ 
+	<test-case id="/Ticket/Refund200">
+		<q>Как вернуть билет на фильм, который оказался сильно изменен в монтаже?</q>
+		<a state="/Ticket/Refund"/>
+		<a state="/Ticket/Refund"/>
+		<timeoutReply/>
+	</test-case>
+</test>

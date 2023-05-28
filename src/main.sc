@@ -35,13 +35,17 @@ theme: /
     
     state: NoMatch || noContext = true
         event!: noMatch
+        if: $session.noMatchCounter
+            go!: /SwitchToOperator
         a: Извините, я не понимаю Ваш запрос. Пожалуйста, попробуйте перефразировать или задать другой вопрос.
-    
+        script: $session.noMatchCounter = 1;
+            
     state: SwitchToOperator
         q!: * $switchToOperator *
         a: Соединяю с оператором.
         script: switchToOperator();
         
     state: Reset
+        q!: reset
         a: Сброс сессионных данных
         script: $jsapi.stopSession();
