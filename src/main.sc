@@ -42,6 +42,7 @@ theme: /
             
     state: SwitchToOperator
         q!: * $switchToOperator *
+        q!: * $obsceneWord *
         a: Соединяю с оператором.
         script: switchToOperator();
         
