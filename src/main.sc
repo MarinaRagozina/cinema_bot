@@ -1,3 +1,4 @@
+require: functions.js
 require: ticket.sc
 require: patterns.sc
   module = sys.zb-common
@@ -36,6 +37,11 @@ theme: /
         event!: noMatch
         a: Извините, я не понимаю Ваш запрос. Пожалуйста, попробуйте перефразировать или задать другой вопрос.
     
+    state: SwitchToOperator
+        q!: * $switchToOperator *
+        a: Соединяю с оператором.
+        script: switchToOperator();
+        
     state: Reset
         a: Сброс сессионных данных
         script: $jsapi.stopSession();
